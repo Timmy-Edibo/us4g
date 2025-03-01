@@ -2,7 +2,9 @@
 
 - How to account github account
 - git init ->(Initialize github in every project)
-- git add .
+- git add ->(Add changes to staging area)
+- git commit ->(Helps us to tag a particular change at a point in time,
+             with a beautiful message)
 - git clone
 - git push 
 - git status
