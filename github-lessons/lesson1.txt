@@ -1,0 +1,10 @@
+##Lessons Treated
+
+- How to account github account
+- git init ->(Initialize github in every project)
+- git add .
+- git clone
+- git push 
+- git status
+- git log
+- git diff
