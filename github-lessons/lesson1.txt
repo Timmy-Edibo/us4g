@@ -5,8 +5,8 @@
 - git add ->(Add changes to staging area)
 - git commit ->(Helps us to tag a particular change at a point in time,
              with a beautiful message)
-- git clone
 - git push 
+- git clone
 - git status
 - git log
 - git diff
