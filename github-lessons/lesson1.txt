@@ -12,3 +12,12 @@
 - git diff
 - git fetch & git merge
 - git pull
+
+-TODO:
+ branching
+ 1. how to create a branching
+ 2. how to see all branches
+ 3. How to see current  branch
+ 4. how to merge chnages with another branch
+ 5. how to delete branch
+ 5. how to rename branch
